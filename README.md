@@ -1,2 +1,6 @@
 # DiseaseTransmissionModel
-a program which prompts for the number of characteristics,number of alleles and number of filial generations and produces the distribution vector of the nth genotypic generation.
+
+A program that models and simulates the
+transmission of a disease passed directly from an individual who has
+the disease and is capable of passing on infection directly to an indi-
+vidual who is susceptible.
