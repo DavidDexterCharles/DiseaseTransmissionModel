@@ -1,5 +1,4 @@
-#ID:811000385
-#COMP3950
+# David Charles
 import random, numpy as np
 from numpy.matlib import rand
 #from scipy.stats import poisson
